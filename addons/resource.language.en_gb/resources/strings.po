@@ -20644,3 +20644,13 @@ msgstr ""
 msgctxt "#39102"
 msgid "Play Radio"
 msgstr ""
+
+#: system/settings/settings.xml
+msgctxt "#39103"
+msgid "Play video with external player"
+msgstr ""
+
+#: system/settings/settings.xml
+msgctxt "#39104"
+msgid "[Enabled] Kodi launch external player to play video file.[CR][Disabled] Normal mode, Kodi play the video itself."
+msgstr ""
